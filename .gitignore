@@ -1,3 +1,5 @@
 src/TC.EventBus/bin
 src/TC.EventBus/obj
+src/Example/bin
+src/Example/obj
 src/.vs
